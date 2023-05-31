@@ -7,4 +7,4 @@
 Create an instance of the `ru.kpfu.itis class.vaihdass.ConsoleMvccmIO.ConsoleIOFacade`
 ### New commands
 An example of how to create, add new commands and what is available to them:
-`ru.kpfu.itis.vaihdass.customCommands.ExampleCommand`
+`ru.kpfu.itis.vaihdass.MvvmIO.CustomCommands.ExampleCommand`
